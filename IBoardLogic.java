@@ -8,3 +8,4 @@ public interface IBoardLogic {
     Boolean makeMove(Move m);
     List<Move> getJumpMoves(Board b,Player p);
 }
+///
